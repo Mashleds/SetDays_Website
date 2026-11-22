@@ -1,7 +1,7 @@
 # SetDays_Website
     Work and Activities Done:
 
-    - Planned the layout and overall appearance of the SET Days 2026 website.
+    - Planned the layout and overall appearance of the SET Days 2026 website using the previous activity as reference.
     - Studied the basic structure of an HTML document.
     - Reviewed how to use headings, paragraphs, links, images, tables, and lists.
     - Practiced applying CSS to change colors, fonts, spacing, and positioning.
